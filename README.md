@@ -9,7 +9,15 @@ This prjoject is built using Python. It focuses on pandas library usage and simp
 
 ### Running the program
 
-You can input 'python bikeshare.py' on your terminal to run this program. I use Anaconda's command prompt on a Windows 10 machine.
+Download the project locally on your computer. Extract the project and navigate to the project directory. Place the datasets in this directory.
+
+Open either the terminal in Linux or command prompt in Windows in this location and type the following command.
+
+```
+python bikeshare.py
+```
+The program will execute
+
 
 ### Program Details
 
