@@ -1,1 +1,3 @@
 .github/**
+data/*.csv
+requirements.txt
