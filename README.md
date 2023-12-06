@@ -73,7 +73,7 @@ Built with
 * [Udacity](https://udacity.com) - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
 * [philribbens](https://github.com/philribbens) - philribben's repository also added to better understanding of the structure for this project.
 * [xhlow](https://github.com/xhlow) - xhlow's repository helped with understanding the structure and details of certain functions.
-* Finally, I'd like to mention the _Intro to Python_ book for Computer Science and Data Science by Paul Deitel and Harvey Deitel. This book contain great depth on the knowledge of how to implement numpy and pandas methods that were used in this project.
+* Finally, I'd like to mention the _Intro to Python for Computer Science and Data Science_ book by Paul Deitel and Harvey Deitel. This book contain great depth on the knowledge of how to implement numpy and pandas methods that were used in this project.
 
 
 
