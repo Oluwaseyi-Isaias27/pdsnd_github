@@ -1,4 +1,3 @@
-from os import sep
 import time
 import pandas as pd
 import numpy as np
